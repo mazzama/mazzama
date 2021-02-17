@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 - ⚡ Fun fact: Not having a computer science background
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
