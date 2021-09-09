@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 21 mins       █████████████████████████   99.81% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 ```
 
@@ -42,5 +41,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2021
+ Last Updated on 09/09/2021
 <!--END_SECTION:waka-->
