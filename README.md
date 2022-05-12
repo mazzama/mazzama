@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     17 mins             ████████████░░░░░░░░░░░░░   49.69% 
-Go                       16 mins             ████████████░░░░░░░░░░░░░   47.84% 
-Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
+Java                     17 mins             ████████████░░░░░░░░░░░░░   49.95% 
+Go                       16 mins             ████████████░░░░░░░░░░░░░   47.59% 
+Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
@@ -47,5 +47,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 01:23:38 UTC
+ Last Updated on 12/05/2022 01:21:37 UTC
 <!--END_SECTION:waka-->
