@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Java                     5 mins              ███████████████████████░░   94.34% 
-Protocol Buffer          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
@@ -45,5 +43,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2022 01:29:11 UTC
+ Last Updated on 06/08/2022 01:15:48 UTC
 <!--END_SECTION:waka-->
