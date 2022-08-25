@@ -22,14 +22,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2021%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -43,5 +35,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2022 01:43:22 UTC
+ Last Updated on 25/08/2022 01:43:45 UTC
 <!--END_SECTION:waka-->
