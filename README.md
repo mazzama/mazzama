@@ -20,13 +20,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2037%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       10 mins             ███████████████░░░░░░░░░░   63.41% 
+go.mod                   5 mins              █████████░░░░░░░░░░░░░░░░   36.16% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 ```
 
@@ -43,5 +45,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2022 01:53:22 UTC
+ Last Updated on 10/09/2022 01:47:25 UTC
 <!--END_SECTION:waka-->
