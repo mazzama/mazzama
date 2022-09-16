@@ -22,6 +22,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C310%20hrs%2055%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Go                       1 hr 21 mins        █████████████████████░░░░   84.56% 
+Makefile                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
+Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.86% 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -35,5 +47,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2022 01:53:53 UTC
+ Last Updated on 16/09/2022 01:57:10 UTC
 <!--END_SECTION:waka-->
