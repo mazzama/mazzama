@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -43,5 +43,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2022 02:10:14 UTC
+ Last Updated on 01/10/2022 01:59:47 UTC
 <!--END_SECTION:waka-->
