@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C423%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 24 mins      ████████████████░░░░░░░░░   65.55% 
-Go                       3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-Java                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-JavaScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
-Properties               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+TypeScript               13 hrs 35 mins      ████████████████░░░░░░░░░   64.29% 
+Go                       3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.4% 
+Java                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.12% 
+Text                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+JavaScript               39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
 
 ```
 
@@ -47,5 +47,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2022 01:18:16 UTC
+ Last Updated on 18/11/2022 01:22:45 UTC
 <!--END_SECTION:waka-->
