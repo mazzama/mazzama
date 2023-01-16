@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C504%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C505%20hrs%2010%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,5 +47,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2023 01:10:43 UTC
+ Last Updated on 16/01/2023 01:06:25 UTC
 <!--END_SECTION:waka-->
