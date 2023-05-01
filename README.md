@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%2011%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -59,5 +59,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2023 01:09:01 UTC
+ Last Updated on 01/05/2023 01:06:36 UTC
 <!--END_SECTION:waka-->
