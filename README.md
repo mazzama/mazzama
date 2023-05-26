@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C686%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C687%20hrs%2016%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -39,11 +39,11 @@ Sunday                   231 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 44 mins        ████████████████░░░░░░░░░   63.66 % 
-Go                       47 mins             ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-SmartyConfig             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Go                       2 hrs 8 mins        ██████████████░░░░░░░░░░░   57.39 % 
+SQL                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Python                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+SmartyConfig             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,5 +59,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2023 01:05:05 UTC
+ Last Updated on 26/05/2023 01:03:42 UTC
 <!--END_SECTION:waka-->
