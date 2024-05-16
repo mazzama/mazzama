@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C281%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C283%20hrs%2028%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -39,9 +39,9 @@ Sunday                   263 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 15 mins       ████████████████████████░   95.49 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Go                       4 hrs 11 mins       ████████████████████████░   94.02 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
@@ -59,5 +59,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2024 00:59:28 UTC
+ Last Updated on 16/05/2024 00:59:20 UTC
 <!--END_SECTION:waka-->
