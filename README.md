@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C481%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C489%20hrs%2016%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -39,11 +39,11 @@ Sunday                   264 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-SQL                      9 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.09 % 
-Go                       6 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.29 % 
-Other                    3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+SQL                      11 hrs 57 mins      █████████████░░░░░░░░░░░░   53.90 % 
+Go                       7 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Other                    2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,5 +59,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2024 01:08:13 UTC
+ Last Updated on 30/08/2024 01:08:37 UTC
 <!--END_SECTION:waka-->
