@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Financial Technology Company in Indonesia
+- 🔭 I’m currently working for a Financial Technology Company in Indonesia
 - :gun: I'm using Go and Java to build software
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
