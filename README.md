@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C750%20hrs%2021%20mins-blue)
-
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -39,11 +37,11 @@ Sunday                   269 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       6 hrs               █████████████████████████   98.51 % 
+Go                       6 hrs 2 mins        █████████████████████████   98.57 % 
 JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,5 +57,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 01:13:16 UTC
+ Last Updated on 10/01/2025 01:15:22 UTC
 <!--END_SECTION:waka-->
