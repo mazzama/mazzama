@@ -39,7 +39,8 @@ Sunday                   269 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       16 mins             ████████████████████████░   94.11 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 
 **I Mostly Code in Java** 
@@ -55,5 +56,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2025 01:12:49 UTC
+ Last Updated on 04/02/2025 01:11:51 UTC
 <!--END_SECTION:waka-->
