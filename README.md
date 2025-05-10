@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C899%20hrs%2055%20mins-blue)
 
 📅 **I'm Most Productive on Thursday** 
 
@@ -39,11 +39,11 @@ Sunday                   280 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       14 hrs 40 mins      ███████████████████░░░░░░   76.33 % 
-YAML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Makefile                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Go                       15 hrs 2 mins       ████████████████████░░░░░   78.27 % 
+YAML                     2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 SQL                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-go.mod                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+go.mod                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Shell Script             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,5 +59,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2025 01:22:56 UTC
+ Last Updated on 10/05/2025 01:20:21 UTC
 <!--END_SECTION:waka-->
