@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C770%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C771%20hrs%2016%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -39,11 +39,11 @@ Sunday                   3493 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     19 hrs 25 mins      ████████████████████░░░░░   80.10 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-XML                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Go                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Java Properties          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java                     13 hrs 36 mins      ███████████████████░░░░░░   77.96 % 
+Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Go                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Java Properties          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,5 +59,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 02:00:31 UTC
+ Last Updated on 06/02/2026 01:59:29 UTC
 <!--END_SECTION:waka-->
