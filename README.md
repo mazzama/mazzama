@@ -37,11 +37,11 @@ Sunday                   3949 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 13 mins      ██████████████░░░░░░░░░░░   55.79 % 
-Java                     4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Go                       3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-SQL                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-XML                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown                 15 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.84 % 
+Java                     7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Go                       3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+XML                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 
 **I Mostly Code in Java** 
@@ -57,5 +57,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:34:10 UTC
+ Last Updated on 25/07/2026 02:32:51 UTC
 <!--END_SECTION:waka-->
