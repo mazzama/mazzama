@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C217%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C217%20hrs%2021%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -31,7 +31,7 @@ Wednesday                1456 commits        ██░░░░░░░░░�
 Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 Friday                   1801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 Saturday                 2721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   3949 commits        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Sunday                   3951 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
 ```
 
 
@@ -39,11 +39,11 @@ Sunday                   3949 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 8 mins       ████████████░░░░░░░░░░░░░   46.95 % 
-Java                     7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Go                       1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-XML                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Markdown                 14 hrs 17 mins      ████████████░░░░░░░░░░░░░   48.45 % 
+Java                     7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+XML                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+SQL                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Java Properties          1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 **I Mostly Code in Java** 
@@ -59,5 +59,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 02:38:58 UTC
+ Last Updated on 27/07/2026 02:47:52 UTC
 <!--END_SECTION:waka-->
