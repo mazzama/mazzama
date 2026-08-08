@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C166%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2045%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -37,34 +41,33 @@ Sunday                   3951 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 27 hrs 20 mins      ██████████████░░░░░░░░░░░   54.92 % 
-Java                     16 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   34.07 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-XML                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Java Properties          41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 24 hrs 37 mins      ███████████████░░░░░░░░░░   58.41 % 
+Java                     13 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+XML                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 36 mins (85.57%)
+⏱ AI Coding Time: 36 hrs 35 mins (86.78%)
 
-✍️ 83,256 lines written by AI, 2,164 lines written by hand (97.47% AI-written)
+✍️ 77,527 lines written by AI, 2,050 lines written by hand (97.42% AI-written)
 
-🔤 2,149,030,567 Input Tokens, 7,320,826 Output Tokens
+🔤 1,766,105,645 Input Tokens, 6,353,241 Output Tokens
 
-💵 $11022.78 Estimated AI Cost This Week
+💵 $8961.54 Estimated AI Cost This Week
 
-🧠 86 AI Sessions, 547 AI Prompts
+🧠 73 AI Sessions, 447 AI Prompts
 
-Opus                     84,695 lines        █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     78,648 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.47% of written lines came from AI
-📄 Detailed Prompter — average 1,196 characters per prompt
+🤖 AI-Driven — 97.42% of written lines came from AI
+📄 Detailed Prompter — average 1,268 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 36.15% of changed lines were hand-edited
+🚀 High AI Trust — 20.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -80,5 +83,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:36:57 UTC
+ Last Updated on 08/08/2026 01:26:20 UTC
 <!--END_SECTION:waka-->
