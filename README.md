@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C166%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C167%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 Monday                   1689 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 Tuesday                  1553 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 Wednesday                1456 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Friday                   1801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Saturday                 2721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Saturday                 2722 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 Sunday                   3951 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
 ```
 
@@ -41,33 +41,34 @@ Sunday                   3951 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 24 hrs 37 mins      ███████████████░░░░░░░░░░   58.41 % 
-Java                     13 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-XML                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Python                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Markdown                 20 hrs 6 mins       ██████████████░░░░░░░░░░░   56.82 % 
+Java                     11 hrs              ████████░░░░░░░░░░░░░░░░░   31.09 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+CSV                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 35 mins (86.78%)
+⏱ AI Coding Time: 30 hrs 3 mins (84.91%)
 
-✍️ 77,527 lines written by AI, 2,050 lines written by hand (97.42% AI-written)
+✍️ 65,441 lines written by AI, 1,935 lines written by hand (97.13% AI-written)
 
-🔤 1,766,105,645 Input Tokens, 6,353,241 Output Tokens
+🔤 1,472,461,598 Input Tokens, 5,324,007 Output Tokens
 
-💵 $8961.54 Estimated AI Cost This Week
+💵 $7467.59 Estimated AI Cost This Week
 
-🧠 73 AI Sessions, 447 AI Prompts
+🧠 64 AI Sessions, 383 AI Prompts
 
-Opus                     78,648 lines        █████████████████████████   100.00 % 
+Opus                     66,436 lines        █████████████████████████   99.97 % 
+Gemini                   20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.42% of written lines came from AI
-📄 Detailed Prompter — average 1,268 characters per prompt
+🤖 AI-Driven — 97.13% of written lines came from AI
+📄 Detailed Prompter — average 1,331 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 20.58% of changed lines were hand-edited
+🚀 High AI Trust — 23.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -83,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 01:26:20 UTC
+ Last Updated on 09/08/2026 01:31:34 UTC
 <!--END_SECTION:waka-->
