@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C167%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C167%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs%2025%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1689 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Tuesday                  1553 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Wednesday                1456 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Friday                   1801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Saturday                 2722 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   3951 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Monday                   1689 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Tuesday                  1562 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Wednesday                1456 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   1801 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Saturday                 2732 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Sunday                   4047 commits        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
 ```
 
 
@@ -41,34 +41,36 @@ Sunday                   3951 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 hrs 6 mins       ██████████████░░░░░░░░░░░   56.82 % 
-Java                     11 hrs              ████████░░░░░░░░░░░░░░░░░   31.09 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-CSV                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Markdown                 18 hrs 55 mins      █████████████░░░░░░░░░░░░   50.67 % 
+Java                     10 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Go                       3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 3 mins (84.91%)
+⏱ AI Coding Time: 31 hrs 48 mins (85.18%)
 
-✍️ 65,441 lines written by AI, 1,935 lines written by hand (97.13% AI-written)
+✍️ 53,229 lines written by AI, 1,972 lines written by hand (96.43% AI-written)
 
-🔤 1,472,461,598 Input Tokens, 5,324,007 Output Tokens
+🔤 1,169,327,553 Input Tokens, 4,319,131 Output Tokens
 
-💵 $7467.59 Estimated AI Cost This Week
+💵 $5888.82 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 383 AI Prompts
+🧠 315 AI Sessions, 425 AI Prompts
 
-Opus                     66,436 lines        █████████████████████████   99.97 % 
-Gemini                   20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Opus                     52,599 lines        ████████████████████████░   97.27 % 
+Gemini                   823 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+OMP                      652 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.13% of written lines came from AI
-📄 Detailed Prompter — average 1,331 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 23.34% of changed lines were hand-edited
+🤖 AI-Driven — 96.43% of written lines came from AI
+📄 Detailed Prompter — average 1,087 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 27.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -84,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 01:31:34 UTC
+ Last Updated on 10/08/2026 01:42:15 UTC
 <!--END_SECTION:waka-->
