@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C172%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C175%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2053%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -41,36 +41,36 @@ Sunday                   3982 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 32 mins      ████████████░░░░░░░░░░░░░   49.34 % 
-Java                     9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Go                       3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-YAML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Python                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 11 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.20 % 
+Java                     5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Go                       3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+YAML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 37 mins (86.16%)
+⏱ AI Coding Time: 20 hrs 47 mins (85.89%)
 
-✍️ 47,159 lines written by AI, 1,880 lines written by hand (96.17% AI-written)
+✍️ 31,232 lines written by AI, 1,808 lines written by hand (94.53% AI-written)
 
-🔤 1,013,174,127 Input Tokens, 4,090,761 Output Tokens
+🔤 625,534,600 Input Tokens, 2,650,057 Output Tokens
 
-💵 $5198.97 Estimated AI Cost This Week
+💵 $3230.27 Estimated AI Cost This Week
 
-🧠 306 AI Sessions, 409 AI Prompts
+🧠 293 AI Sessions, 294 AI Prompts
 
-Opus                     46,150 lines        ████████████████████████░   96.90 % 
-Gemini                   823 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-OMP                      652 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Opus                     29,934 lines        ████████████████████████░   95.24 % 
+Gemini                   843 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+OMP                      652 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.17% of written lines came from AI
-📄 Detailed Prompter — average 1,416 characters per prompt
+🤖 AI-Driven — 94.53% of written lines came from AI
+📚 Verbose Prompter — average 1,642 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 29.64% of changed lines were hand-edited
+🚀 High AI Trust — 38.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 01:31:21 UTC
+ Last Updated on 12/08/2026 01:49:41 UTC
 <!--END_SECTION:waka-->
