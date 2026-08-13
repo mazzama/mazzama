@@ -41,36 +41,36 @@ Sunday                   3982 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.20 % 
-Java                     5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Go                       3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-YAML                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 9 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.99 % 
+Java                     4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Go                       3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 47 mins (85.89%)
+⏱ AI Coding Time: 17 hrs 21 mins (81.92%)
 
-✍️ 31,232 lines written by AI, 1,808 lines written by hand (94.53% AI-written)
+✍️ 15,693 lines written by AI, 640 lines written by hand (96.08% AI-written)
 
-🔤 625,534,600 Input Tokens, 2,650,057 Output Tokens
+🔤 296,017,886 Input Tokens, 1,950,694 Output Tokens
 
-💵 $3230.27 Estimated AI Cost This Week
+💵 $1648.11 Estimated AI Cost This Week
 
-🧠 293 AI Sessions, 294 AI Prompts
+🧠 289 AI Sessions, 257 AI Prompts
 
-Opus                     29,934 lines        ████████████████████████░   95.24 % 
-Gemini                   843 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-OMP                      652 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Opus                     14,375 lines        ███████████████████████░░   90.58 % 
+Gemini                   843 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+OMP                      652 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.53% of written lines came from AI
-📚 Verbose Prompter — average 1,642 characters per prompt
+🤖 AI-Driven — 96.08% of written lines came from AI
+📄 Detailed Prompter — average 1,483 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 38.66% of changed lines were hand-edited
+🚀 High AI Trust — 6.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -86,5 +86,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 01:49:41 UTC
+ Last Updated on 13/08/2026 01:51:47 UTC
 <!--END_SECTION:waka-->
