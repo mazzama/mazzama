@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1702 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Tuesday                  1564 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Monday                   1702 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Tuesday                  1571 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 Wednesday                1456 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 Friday                   1847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Saturday                 2744 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Sunday                   4069 commits        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Saturday                 2744 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Sunday                   4069 commits        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
 ```
 
 
@@ -41,37 +41,37 @@ Sunday                   4069 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
-Java                     4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Go                       3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-SQL                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Markdown                 10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
+Java                     6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Go                       3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 33 mins (79.41%)
+⏱ AI Coding Time: 21 hrs 52 mins (83.03%)
 
-✍️ 6,632 lines written by AI, 159 lines written by hand (97.66% AI-written)
+✍️ 7,969 lines written by AI, 232 lines written by hand (97.17% AI-written)
 
-🔤 102,626,944 Input Tokens, 2,097,804 Output Tokens
+🔤 104,274,930 Input Tokens, 2,685,638 Output Tokens
 
-💵 $487.04 Estimated AI Cost This Week
+💵 $609.33 Estimated AI Cost This Week
 
-🧠 1131 AI Sessions, 212 AI Prompts
+🧠 1136 AI Sessions, 266 AI Prompts
 
-Opus                     6,089 lines         ██████████████████████░░░   89.93 % 
-OMP                      586 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Antigravity-Cli          96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Opus                     7,426 lines         ███████████████████████░░   91.59 % 
+OMP                      586 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Antigravity-Cli          96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.66% of written lines came from AI
-📚 Verbose Prompter — average 1,617 characters per prompt
+🤖 AI-Driven — 97.17% of written lines came from AI
+📚 Verbose Prompter — average 2,654 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 3.11% of changed lines were hand-edited
+🚀 High AI Trust — 3.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 01:09:47 UTC
+ Last Updated on 19/08/2026 01:10:50 UTC
 <!--END_SECTION:waka-->
