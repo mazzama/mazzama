@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C193%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C200%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%2013%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1702 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 Tuesday                  1571 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Wednesday                1456 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Wednesday                1458 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 Friday                   1847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 Saturday                 2744 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
@@ -41,37 +41,37 @@ Sunday                   4069 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
-Java                     6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Go                       3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 8 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+Java                     5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Go                       3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+SQL                      2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+YAML                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 52 mins (83.03%)
+⏱ AI Coding Time: 25 hrs 11 mins (87.28%)
 
-✍️ 7,969 lines written by AI, 232 lines written by hand (97.17% AI-written)
+✍️ 5,328 lines written by AI, 983 lines written by hand (84.42% AI-written)
 
-🔤 104,274,930 Input Tokens, 2,685,638 Output Tokens
+🔤 105,467,474 Input Tokens, 3,154,914 Output Tokens
 
-💵 $609.33 Estimated AI Cost This Week
+💵 $716.50 Estimated AI Cost This Week
 
-🧠 1136 AI Sessions, 266 AI Prompts
+🧠 1141 AI Sessions, 332 AI Prompts
 
-Opus                     7,426 lines         ███████████████████████░░   91.59 % 
-OMP                      586 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Antigravity-Cli          96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Opus                     4,709 lines         ██████████████████████░░░   86.39 % 
+OMP                      586 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Antigravity-Cli          96 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Sonnet                   60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.17% of written lines came from AI
-📚 Verbose Prompter — average 2,654 characters per prompt
+🤖 AI-Driven — 84.42% of written lines came from AI
+📚 Verbose Prompter — average 2,673 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 3.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 01:10:50 UTC
+ Last Updated on 20/08/2026 01:10:08 UTC
 <!--END_SECTION:waka-->
