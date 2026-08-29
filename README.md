@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C228%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C233%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2019%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   1753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 Tuesday                  1598 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Wednesday                1462 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Wednesday                1462 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Friday                   1848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 2766 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Sunday                   4083 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+Friday                   1848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Saturday                 2769 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Sunday                   4083 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 ```
 
 
@@ -41,36 +41,37 @@ Sunday                   4083 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
-Java                     5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-YAML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Go                       1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown                 7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
+Java                     4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 41 mins (82.64%)
+⏱ AI Coding Time: 16 hrs 45 mins (82.64%)
 
-✍️ 6,018 lines written by AI, 1,655 lines written by hand (78.43% AI-written)
+✍️ 25,009 lines written by AI, 1,467 lines written by hand (94.46% AI-written)
 
-🔤 19,334,197 Input Tokens, 1,740,596 Output Tokens
+🔤 43,102,411 Input Tokens, 1,760,136 Output Tokens
 
-💵 $377.97 Estimated AI Cost This Week
+💵 $401.82 Estimated AI Cost This Week
 
-🧠 193 AI Sessions, 179 AI Prompts
+🧠 377 AI Sessions, 188 AI Prompts
 
-Opus                     5,324 lines         ██████████████████████░░░   88.01 % 
-OMP                      725 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Opus                     23,862 lines        ████████████████████████░   95.20 % 
+OMP                      1,203 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.43% of written lines came from AI
-📚 Verbose Prompter — average 4,931 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 98.34% of changed lines were hand-edited
+🤖 AI-Driven — 94.46% of written lines came from AI
+📚 Verbose Prompter — average 3,321 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 89.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -86,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 09:38:17 UTC
+ Last Updated on 29/08/2026 05:44:19 UTC
 <!--END_SECTION:waka-->
