@@ -41,25 +41,25 @@ Sunday                   4083 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
-Java                     4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Markdown                 7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.71 % 
+Java                     4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Go                       2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Other                    2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+YAML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 45 mins (82.64%)
+⏱ AI Coding Time: 16 hrs 26 mins (82.37%)
 
 ✍️ 25,009 lines written by AI, 1,467 lines written by hand (94.46% AI-written)
 
-🔤 43,102,411 Input Tokens, 1,760,136 Output Tokens
+🔤 41,298,977 Input Tokens, 1,747,330 Output Tokens
 
-💵 $401.82 Estimated AI Cost This Week
+💵 $396.22 Estimated AI Cost This Week
 
-🧠 377 AI Sessions, 188 AI Prompts
+🧠 329 AI Sessions, 180 AI Prompts
 
 Opus                     23,862 lines        ████████████████████████░   95.20 % 
 OMP                      1,203 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
@@ -69,8 +69,8 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.46% of written lines came from AI
-📚 Verbose Prompter — average 3,321 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📚 Verbose Prompter — average 3,466 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 89.25% of changed lines were hand-edited
 ```
 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 03:44:06 UTC
+ Last Updated on 31/08/2026 03:44:37 UTC
 <!--END_SECTION:waka-->
