@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C305%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C306%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%209%20mins-blue?style=flat)
 
@@ -41,33 +41,33 @@ Sunday                   4083 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 19 hrs 47 mins      █████████████░░░░░░░░░░░░   52.95 % 
-Java                     12 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   32.27 % 
-HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-YAML                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Markdown                 19 hrs 47 mins      █████████████░░░░░░░░░░░░   51.01 % 
+Java                     12 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
+Go                       1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+HTML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 52 mins (79.98%)
+⏱ AI Coding Time: 29 hrs 53 mins (77.07%)
 
-✍️ 24,581 lines written by AI, 3,793 lines written by hand (86.63% AI-written)
+✍️ 24,581 lines written by AI, 3,920 lines written by hand (86.25% AI-written)
 
 🔤 161,960,341 Input Tokens, 5,239,801 Output Tokens
 
 💵 $1052.96 Estimated AI Cost This Week
 
-🧠 365 AI Sessions, 341 AI Prompts
+🧠 366 AI Sessions, 343 AI Prompts
 
 Opus                     12,134 lines        ████████████░░░░░░░░░░░░░   48.98 % 
 Sonnet                   11,321 lines        ███████████░░░░░░░░░░░░░░   45.70 % 
 OMP                      1,319 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.63% of written lines came from AI
-📚 Verbose Prompter — average 3,259 characters per prompt
+🤖 AI-Driven — 86.25% of written lines came from AI
+📚 Verbose Prompter — average 3,255 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 97.86% of changed lines were hand-edited
 ```
@@ -85,5 +85,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 03:15:16 UTC
+ Last Updated on 14/09/2026 03:28:24 UTC
 <!--END_SECTION:waka-->
