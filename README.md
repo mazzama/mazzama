@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Monday                   1757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 Tuesday                  1599 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 Wednesday                1462 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Thursday                 2441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 Friday                   1848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Saturday                 2772 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Sunday                   4083 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Sunday                   4083 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
 ```
 
 
@@ -41,34 +41,34 @@ Sunday                   4083 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
-Java                     5 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-YAML                     4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Other                    3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Text                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Markdown                 9 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
+YAML                     5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Java                     5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Other                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+JSON                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 8 mins (90.09%)
+⏱ AI Coding Time: 28 hrs 45 mins (91.69%)
 
-✍️ 6,685 lines written by AI, 2,516 lines written by hand (72.66% AI-written)
+✍️ 4,670 lines written by AI, 2,474 lines written by hand (65.37% AI-written)
 
-🔤 19,087,839 Input Tokens, 3,542,860 Output Tokens
+🔤 19,346,394 Input Tokens, 3,665,519 Output Tokens
 
-💵 $919.71 Estimated AI Cost This Week
+💵 $903.65 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 319 AI Prompts
+🧠 50 AI Sessions, 316 AI Prompts
 
-Opus                     6,055 lines         ███████████████████████░░   90.51 % 
-Sonnet                   635 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Opus                     4,514 lines         ████████████████████████░   95.96 % 
+Sonnet                   190 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.66% of written lines came from AI
-📚 Verbose Prompter — average 3,282 characters per prompt
+⚖️ Balanced with AI — 65.37% of written lines came from AI
+📚 Verbose Prompter — average 3,113 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 95.18% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -84,5 +84,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 03:25:06 UTC
+ Last Updated on 22/09/2026 03:24:27 UTC
 <!--END_SECTION:waka-->
