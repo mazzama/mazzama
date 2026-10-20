@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning microservices and serverless, and also learning many technology buzzwords to build it
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C447%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C449%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-555%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-557%20hrs%2012%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -41,37 +41,37 @@ Sunday                   4112 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 40 mins      ████████████░░░░░░░░░░░░░   49.74 % 
-Java                     4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Go                       2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Other                    2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 16 hrs 43 mins      ████████████░░░░░░░░░░░░░   48.40 % 
+Java                     5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Other                    3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Go                       2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+YAML                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 35 mins (90.07%)
+⏱ AI Coding Time: 31 hrs 20 mins (90.7%)
 
-✍️ 12,790 lines written by AI, 1,018 lines written by hand (92.63% AI-written)
+✍️ 13,448 lines written by AI, 1,019 lines written by hand (92.96% AI-written)
 
-🔤 37,259,420 Input Tokens, 3,605,762 Output Tokens
+🔤 40,320,239 Input Tokens, 3,953,872 Output Tokens
 
-💵 $486.90 Estimated AI Cost This Week
+💵 $539.45 Estimated AI Cost This Week
 
-🧠 189 AI Sessions, 678 AI Prompts
+🧠 191 AI Sessions, 763 AI Prompts
 
-Opus                     12,899 lines        █████████████████████████   99.99 % 
-Sonnet                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     13,403 lines        █████████████████████████   98.72 % 
+Sonnet                   174 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.63% of written lines came from AI
-📚 Verbose Prompter — average 2,364 characters per prompt
+🤖 AI-Driven — 92.96% of written lines came from AI
+📚 Verbose Prompter — average 1,805 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 92.1% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -87,5 +87,5 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 03:21:05 UTC
+ Last Updated on 20/10/2026 03:30:32 UTC
 <!--END_SECTION:waka-->
